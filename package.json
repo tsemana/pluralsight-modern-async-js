@@ -5,7 +5,9 @@
     "expect": "^1.20.1",
     "live-server": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "testdouble": "^1.6.0"
+  },
   "scripts": {
     "test": "live-server"
   },
